@@ -87,3 +87,7 @@ Binary Classification Task: classify EKG signals into two categories (e.g., norm
 
 
 ![image](https://github.com/haanisyed/Arrhythmia-ANN-MATLAB/assets/116673121/2a3c2bc5-25c8-4ebc-aab2-eff672a1f6b9)
+
+
+![image](https://github.com/haanisyed/Arrhythmia-ANN-MATLAB/assets/116673121/baadb1f4-60ca-4644-a4d2-91a5a27f27c6)
+
