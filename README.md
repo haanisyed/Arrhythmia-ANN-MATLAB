@@ -34,3 +34,26 @@ Milliseconds were calculated and added as a secondary index to each dataset. Cal
 3. Creation of Input Features Variable (X)
 
 4. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/haanisyed/Arrhythmia-ANN-MATLAB/assets/116673121/2a3c2bc5-25c8-4ebc-aab2-eff672a1f6b9)
