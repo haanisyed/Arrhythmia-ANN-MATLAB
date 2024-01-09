@@ -6,6 +6,7 @@ Artificial Neural Network Model for EKG Binary Classification in MATLAB.
 Data Source: https://www.kaggle.com/datasets/protobioengineering/mit-bih-arrhythmia-database-modern-2023?resource=download
 
 MIT-BIH Arrhythmia Database, which contains 48 electrocardiograms (EKGs) from 47 patients that were at Beth Israel Deaconess Medical Center in Boston, MA in 1975-1979. There are 48 CSVs, each of which is a 30-minute echocardiogram (EKG) from a single patient (record 201 and 202 are from the same patient). Data was collected at 360 Hz, meaning that 360 rows is equal to 1 second of time.
+
 Converted from .dat to .csv for ease.
 
 Each file's name is Patient's ID. The Neural Network is developed specifically for the Patient with ID 100.
