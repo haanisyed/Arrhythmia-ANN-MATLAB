@@ -46,7 +46,7 @@ Binary Classification Task: classify EKG signals into two categories (e.g., norm
 
 6. Extract the relevant columns by creating respective variables (time_ms, MLII, V5)
 
-7. Define abnormal criteria based on MLII (Assumption made: values less than -0.5 are abnormal)
+7. Define abnormal criteria based on MLII Signal (Assumption made: values less than -0.5 are abnormal)
 
 8. Creating variable X For The Features (input variables)
 
