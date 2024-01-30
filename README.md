@@ -1,5 +1,7 @@
 # Arrhythmia-ANN-MATLAB
-Artificial Neural Network Model for EKG Binary Classification (using MLII Signal) in MATLAB.
+• Developed Artificial Neural Network model in MATLAB for EKG Binary classification using Patient 100's data CSV file from MIT-BIH Arrhythmia Database.
+
+• Implemented Cardiac Arrhythmia Detection Binary classification system of normal and abnormal with threshold of -0.5 MLII Biomedical Signal.
 
 **Data Used**
 
